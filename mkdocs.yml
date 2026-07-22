@@ -43,13 +43,16 @@ nav:
     - Schriftlehre: faehigkeiten/scribing.md
   - Ausrüstung:
     - Hergestellbare Ausrüstung: ausruestung/crafted_sets.md
+    - Overland-Sets: ausruestung/overland_sets.md
     - Dungeon-Sets: ausruestung/dungeon_sets.md
     - Raid-Sets: ausruestung/raid_sets.md
+    - Monster-Sets: ausruestung/monster_sets.md
+    - Sonstige Sets: ausruestung/other_sets.md
     - Sinnvolle Kombinationen: ausruestung/combos.md
   - Builds:
-      - Anfänger: builds/beginner_build.md
-      - Dungeon: builds/dungeon_build.md
-      - Raid: builds/raid_build.md
+    - Anfänger: builds/beginner_build.md
+    - Dungeon: builds/dungeon_build.md
+    - Raid: builds/raid_build.md
 
 
 markdown_extensions:
