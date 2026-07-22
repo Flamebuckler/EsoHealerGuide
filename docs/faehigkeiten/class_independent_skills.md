@@ -28,7 +28,7 @@ Sortiert nach Wichtigkeit (★★★★★ = unverzichtbar, ★ = Spezialfall):
 
 Neben einer starken Heilung gewährt es **Kleinere Raserei**. Achtet darauf, möglichst alle Gruppenmitglieder – insbesondere die DDs – mit diesem Buff zu versorgen. Da Kampfgebet maximal sechs Spieler gleichzeitig trifft, nutzen in organisierten Gruppen meist beide Heiler diese Fähigkeit.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/kampfgebet)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/kampfgebet){: target="_blank" rel="noopener" }
 
 ---
 
@@ -39,7 +39,7 @@ Neben einer starken Heilung gewährt es **Kleinere Raserei**. Achtet darauf, mö
 
 Zusätzlich aktiviert die Fähigkeit den Bonus des Meisterheilungsstabs, sofern ihr diesen ausgerüstet habt.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/erhabene-heilung) 
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/erhabene-heilung){: target="_blank" rel="noopener" }
 
 ---
 
@@ -50,7 +50,7 @@ Zusätzlich aktiviert die Fähigkeit den Bonus des Meisterheilungsstabs, sofern 
 
 Außerdem eignet sich die Fähigkeit hervorragend, um für **Elementarer Katalysator** ein bestimmtes Element als Flächeneffekt bereitzustellen.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/zerstorungsstab/elementare-blockade)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/zerstorungsstab/elementare-blockade){: target="_blank" rel="noopener" }
 
 ---
 
@@ -67,7 +67,7 @@ Templer sollten beachten, dass sich die Kugelsynergie die Abklingzeit mit **Lode
 
 Werft Kugeln möglichst kontinuierlich nach. Idealerweise wirkt ihr die nächste Kugel, sobald die vorherige die Gruppe verlassen hat. So können alle Spieler ihre Synergien flexibel nutzen, anstatt auf einen festen 20-Sekunden-Rhythmus angewiesen zu sein.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/gilde/unerschrockene/energetische-kugel)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/gilde/unerschrockene/energetische-kugel){: target="_blank" rel="noopener" }
 
 ---
 
@@ -80,7 +80,7 @@ Außerdem eignet sich Elan hervorragend, um eure Ausdauer gezielt unter 50 % zu 
 
 Wie die meisten Heilfähigkeiten trifft Elan bis zu sechs Spieler und bietet ein mobiles AoE-HoT, das besonders in bewegungsintensiven Kämpfen seine Stärken ausspielt.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/sturmangriff/widerhallender-elan)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/sturmangriff/widerhallender-elan){: target="_blank" rel="noopener" }
 
 ---
 
@@ -93,7 +93,7 @@ Bei niedrigem Leben heilt die Synergie 65 % des maximalen Lebens. Zusätzlich er
 
 Diese Fähigkeit sollte in jedem Raid vorhanden sein, muss aber nur einmal gespielt werden.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/gilde/unerschrockene/uberfliessender-altar)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/gilde/unerschrockene/uberfliessender-altar){: target="_blank" rel="noopener" }
 
 ---
 
@@ -104,7 +104,7 @@ Diese Fähigkeit sollte in jedem Raid vorhanden sein, muss aber nur einmal gespi
 
 Habt ihr die Passive **Magickahilfe** freigeschaltet, erhaltet ihr zusätzlich 10 % Magickaregeneration. Deshalb lohnt es sich, die Ultimative auf eurer Heilungsleiste auszurüsten, selbst wenn ihr sie nur selten einsetzt.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/unterstutzung/belebende-barriere)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/unterstutzung/belebende-barriere){: target="_blank" rel="noopener" }
 
 ---
 
@@ -119,7 +119,7 @@ Da **Größere Kraft** deutlich früher ausläuft als der Ressourcenbonus, werde
 
 Legt die Ultimative idealerweise auf eure Backbar, damit ihr auf der Heilungsleiste weiterhin von passiven Boni profitiert.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/sturmangriff/aggressives-signal)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/sturmangriff/aggressives-signal){: target="_blank" rel="noopener" }
 
 ---
 
@@ -130,7 +130,7 @@ Legt die Ultimative idealerweise auf eure Backbar, damit ihr auf der Heilungslei
 
 Die Heilung ist nicht zu unterschätzen, spielt im klassischen 12-Spieler-Content jedoch meist nur eine untergeordnete Rolle.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/strahlende-regeneration)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/strahlende-regeneration){: target="_blank" rel="noopener" }
 
 ---
 
@@ -141,7 +141,7 @@ Die Heilung ist nicht zu unterschätzen, spielt im klassischen 12-Spieler-Conten
 
 Nutzt die Fähigkeit, wenn Gegner regelmäßig aus der Distanz unterbrochen werden müssen.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/zerstorungsstab/zermalmender-schlag)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/zerstorungsstab/zermalmender-schlag){: target="_blank" rel="noopener" }
 
 ---
 
@@ -154,7 +154,7 @@ Beachtet die sehr hohen Magickakosten.
 
 Alternativ genügt in manchen Kämpfen auch ein Schriftlehre-Skill, der zusätzlich weitere Vorteile wie die Heilung von **Perlen von Ehlnofey** auslösen kann.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/unterstutzung/effiziente-lauterung)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/unterstutzung/effiziente-lauterung){: target="_blank" rel="noopener" }
 
 ---
 
@@ -165,7 +165,7 @@ Alternativ genügt in manchen Kämpfen auch ein Schriftlehre-Skill, der zusätzl
 
 Vor allem die Uptime von **Kleinere Verwundbarkeit** und **Verwirrung** (_Aus dem Gleichgewicht_) lässt sich damit deutlich verbessern.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/zerstorungsstab/elementare-anfalligkeit)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/zerstorungsstab/elementare-anfalligkeit){: target="_blank" rel="noopener" }
 
 ---
 
@@ -176,7 +176,7 @@ Vor allem die Uptime von **Kleinere Verwundbarkeit** und **Verwirrung** (_Aus de
 
 Falls ihr die Fähigkeit nutzt, empfiehlt sich der Heilstab aus dem Schwarzrosengefängnis.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/heilender-schutz)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/heilender-schutz){: target="_blank" rel="noopener" }
 
 ---
 
@@ -187,7 +187,7 @@ Falls ihr die Fähigkeit nutzt, empfiehlt sich der Heilstab aus dem Schwarzrosen
 
 Zusätzlich stellt die Fähigkeit eine weitere Synergie bereit, etwa für **Brüllen von Alkosh**. Diese können allerdings nur Spieler nutzen, die sich in unmittelbarer Nähe befinden.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/gilde/unerschrockene/knochenwoge)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/gilde/unerschrockene/knochenwoge){: target="_blank" rel="noopener" }
 
 ---
 
@@ -198,7 +198,7 @@ Zusätzlich stellt die Fähigkeit eine weitere Synergie bereit, etwa für **Brü
 
 Besonders Klassen ohne eigenen Tempobuff profitieren von dieser Fähigkeit.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/gilde/psijik-orden/gegen-die-zeit)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/gilde/psijik-orden/gegen-die-zeit){: target="_blank" rel="noopener" }
 
 ---
 
@@ -209,4 +209,4 @@ Besonders Klassen ohne eigenen Tempobuff profitieren von dieser Fähigkeit.
 
 Rüstet die Fähigkeit auf beiden Skillleisten aus, da die Verbindung beim Leistenwechsel sonst unterbrochen wird.
 
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/unterstutzung/mystische-wache)
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/unterstutzung/mystische-wache){: target="_blank" rel="noopener" }
