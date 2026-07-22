@@ -3,7 +3,7 @@
 Monster-Sets bestehen aus zwei Teilen (Schulter und Kopf), die vom letzten Boss eines Dungeons droppen bzw. über die Truhen beim Unerschrockenen-Händler erworben werden können. Der Kopf erfordert den Endboss im veteranen Modus. Ihr kombiniert meist ein Monster-Set mit zwei 5-teiligen Sets eurer Wahl.
 
 !!! note
-    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten in ESO-Hub oder direkt im Spiel.
+    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten auf ESO-Hub oder direkt im Spiel.
 
 | Set | Sterne | Warum für Heiler | Herkunft | Link |
 |---|---|---|---|---|

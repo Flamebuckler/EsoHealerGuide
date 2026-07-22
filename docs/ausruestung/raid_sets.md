@@ -3,7 +3,7 @@
 Raid-Sets (Trial-Sets) droppen in den 12-Spieler-Trials. Sie bieten oft die stärksten Gruppenbuffs im Spiel, sind dafür aber an das Clearen des jeweiligen Trials gebunden.
 
 !!! note
-    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten in ESO-Hub oder direkt im Spiel.
+    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten auf ESO-Hub oder direkt im Spiel.
 
 | Set | Sterne | Warum für Heiler | Herkunft | Link |
 |---|---|---|---|---|

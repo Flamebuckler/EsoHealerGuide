@@ -3,7 +3,7 @@
 Neben den klassischen Set-Kategorien gibt es einige weitere Ausrüstungsstücke, die sich für Heiler lohnen: Waffen aus Solo-Arenen, ein PvP-Set aus der Kaiserstadt sowie Mythische Gegenstände, die ihr über das Antiquitäten-System erhaltet.
 
 !!! note
-    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten in ESO-Hub oder direkt im Spiel.
+    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten auf ESO-Hub oder direkt im Spiel.
 
 | Set | Sterne | Warum für Heiler | Herkunft | Link |
 |---|---|---|---|---|

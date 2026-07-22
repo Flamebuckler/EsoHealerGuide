@@ -3,7 +3,7 @@
 Dungeon-Sets droppen von Bossen und Truhen in 4-Spieler-Dungeons. Zwei der stärksten Heiler-Sets im Spiel stammen aus Dungeons – sie sind meist einfacher zu farmen als Trial-Sets und trotzdem bis ins Endgame konkurrenzfähig.
 
 !!! note
-    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten in ESO-Hub oder direkt im Spiel.
+    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten auf ESO-Hub oder direkt im Spiel.
 
 | Set | Sterne | Warum für Heiler | Herkunft | Link |
 |---|---|---|---|---|

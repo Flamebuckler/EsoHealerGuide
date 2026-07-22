@@ -3,7 +3,7 @@
 Overland-Sets droppen von Gegnern, Truhen und Bossen in den offenen Zonen und öffentlichen Dungeons. Sie sind ohne Gruppenspiel farmbar und eignen sich daher gut, um früh im Spiel oder ohne feste Gruppe an solide Heiler-Ausrüstung zu kommen.
 
 !!! note
-    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten in ESO-Hub oder direkt im Spiel.
+    Set-Boni können sich mit Patches ändern. Genaue, aktuell gültige Werte prüft ihr am besten auf ESO-Hub oder direkt im Spiel.
 
 | Set | Sterne | Warum für Heiler | Herkunft | Link |
 |---|---|---|---|---|
