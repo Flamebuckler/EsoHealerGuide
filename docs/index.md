@@ -16,4 +16,4 @@ Die Inhalte spiegeln meine eigene Erfahrung sowie gängige Endgame-Meta wider un
 - **[Klassenspezifische Fähigkeiten](fähigkeiten/class_skills.md)** – Besonderheiten der einzelnen Klassen
 
 !!! tip
-Heilen in ESO lebt von Anpassung. Nutzt diesen Guide als Orientierung, aber passt eure Wahl immer an Gruppe, Kampf und persönliche Vorlieben an.
+    Heilen in ESO lebt von Anpassung. Nutzt diesen Guide als Orientierung, aber passt eure Wahl immer an Gruppe, Kampf und persönliche Vorlieben an.
