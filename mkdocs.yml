@@ -36,11 +36,11 @@ nav:
       - Rasse: allgemein/race.md
       - Mundusstein: allgemein/mundus.md
       - Championpunkte: allgemein/championpoints.md
-      - Verbauchsgüter: allgemein/consumables.md
+      - Verbrauchsgüter: allgemein/consumables.md
   - Fähigkeiten:
-      - Klassenunabhängige Fähigkeiten: fähigkeiten/class_independent_skills.md
-      - Klassenspezifische Fähigkeiten: fähigkeiten/class_skills.md
-      - Schriftlehre: fähigkeiten/scribing.md
+      - Klassenunabhängige Fähigkeiten: faehigkeiten/class_independent_skills.md
+      - Klassenspezifische Fähigkeiten: faehigkeiten/class_skills.md
+      - Schriftlehre: faehigkeiten/scribing.md
 
 markdown_extensions:
   - admonition

@@ -1,6 +1,8 @@
+# Klassenunabhängige Fähigkeiten
+
 Heiler sollten ihre Fähigkeiten immer an die jeweilige Gruppe, den Kampf und die Mechaniken anpassen. Einige Skills sind dabei nahezu unverzichtbar und gehören in fast jedes Setup, während andere nur in bestimmten Situationen ihre Stärken ausspielen. Da sich die Klassen beim Heilen grundsätzlich ähneln und sich vor allem durch wenige Klassenfähigkeiten und Passive unterscheiden, kann jede Klasse erfolgreich als Heiler gespielt werden. Die folgenden Bewertungen dienen daher als Orientierung und helfen einzuschätzen, welche Fähigkeiten allgemein unverzichtbar und welche eher situativ nützlich sind.
 
-### Basis-Fähigkeiten
+## Basis-Fähigkeiten
 
 Die folgenden Fähigkeiten bilden die **Grundausstattung** eines Heilers und kommen in nahezu jeder Gruppen- und Raidzusammenstellung zum Einsatz. Sie stellen die wichtigsten Heil-, Support- und Ressourcenwerkzeuge bereit und bilden das Fundament nahezu jeder Skillleiste:
 
@@ -12,6 +14,10 @@ Die folgenden Fähigkeiten bilden die **Grundausstattung** eines Heilers und kom
 - **Überfließender Altar**
 
 Ergänzt wird dieses Grundgerüst durch **Klassenfähigkeiten**, die je nach Klasse unterschiedliche Buffs, Heilungen oder Unterstützung bieten. Die verbleibenden Skillplätze werden mit **situativen Fähigkeiten** belegt, um auf die Anforderungen des jeweiligen Kampfes, der Gruppenzusammenstellung oder bestimmter Mechaniken zu reagieren.
+
+## Fähigkeiten im Detail
+
+Sortiert nach Wichtigkeit (★★★★★ = unverzichtbar, ★ = Spezialfall):
 
 ---
 

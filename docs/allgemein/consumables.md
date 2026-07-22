@@ -1,12 +1,12 @@
 # Verbrauchsgüter
 
-### Tränke
+## Tränke
 
 - **Magiekraft-Pots**
 - **Tri-Pots**
 - **Ulti-Pots**
 
-### Bufffood
+## Bufffood
 
 Über das Bufffood lässt sich der eigene Sustain gezielt anpassen. Je nach Aufgabe, Build oder Situation kann es sinnvoll sein, unterschiedliche Bufffoods zu verwenden.
 

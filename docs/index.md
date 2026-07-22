@@ -12,8 +12,8 @@ Die Inhalte spiegeln meine eigene Erfahrung sowie gängige Endgame-Meta wider un
 - **[Mundusstein](allgemein/mundus.md)** – die sinnvollsten Mundussteine je nach Situation
 - **[Championpunkte](allgemein/championpoints.md)** – empfohlene blaue und rote CP
 - **[Verbrauchsgüter](allgemein/consumables.md)** – Tränke und Bufffood
-- **[Klassenunabhängige Fähigkeiten](fähigkeiten/class_independent_skills.md)** – die wichtigsten Skills für jeden Heiler
-- **[Klassenspezifische Fähigkeiten](fähigkeiten/class_skills.md)** – Besonderheiten der einzelnen Klassen
+- **[Klassenunabhängige Fähigkeiten](faehigkeiten/class_independent_skills.md)** – die wichtigsten Skills für jeden Heiler
+- **[Klassenspezifische Fähigkeiten](faehigkeiten/class_skills.md)** – Besonderheiten der einzelnen Klassen
 
 !!! tip
     Heilen in ESO lebt von Anpassung. Nutzt diesen Guide als Orientierung, aber passt eure Wahl immer an Gruppe, Kampf und persönliche Vorlieben an.

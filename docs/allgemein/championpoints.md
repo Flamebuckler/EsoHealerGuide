@@ -1,6 +1,6 @@
 # Championpunkte
 
-### Blaue CP
+## Blaue CP
 
 **Besänftigender Strom** und **Geschwinde Erneuerung** sind die beiden Standard-Championpunkte und sollten auf jedem Heiler gespielt werden.
 
@@ -27,7 +27,7 @@ Je nach Kampf können auch situative CP sinnvoll sein, etwa **Fokussierte Pflege
 - **Vorblick**
   Nachdem Ihr einen Trank eingenommen habt, werden die Kosten Eurer nächsten, innerhalb von 6 Sekunden genutzten Magicka- und Ausdauer-Heilfähigkeiten um 75 % verringert.
 
-### Rote CP
+## Rote CP
 
 Wie bei allen Rollen gehören **Grenzenlose Vitalität**, **Verstärkt** und **Verjüngung** zu den Standard-Championpunkten und sind nahezu immer eine gute Wahl.
 
