@@ -180,7 +180,7 @@ Nutzt die Fähigkeit, wenn Gegner regelmäßig aus der Distanz unterbrochen werd
 
 #### Effiziente Läuterung
 
-**Effiziente Läuterung** entfernt schädliche Effekte von euch und euren Verbündeten. Eingesetzt wird sie vor allem in Kämpfen, in denen regelmäßiges Reinigen erforderlich ist, beispielsweise beim ersten Boss in HoF oder beim zweiten Boss in MoL.
+**Effiziente Läuterung** entfernt schädliche Effekte von euch und euren Verbündeten. Eingesetzt wird sie vor allem in Kämpfen, in denen regelmäßiges Reinigen erforderlich ist, beispielsweise beim ersten Boss in Hallen der Fertigung (HoF) oder beim zweiten Boss im Schlund von Lorkhaj (MoL).
 
 Beachtet die sehr hohen Magickakosten.
 
@@ -198,7 +198,7 @@ Alternativ genügt in manchen Kämpfen auch ein Schriftlehre-Skill, der zusätzl
 
 **Heilender Schutz** wird nur in wenigen Spezialfällen benötigt, beispielsweise beim Eisboss in Sonnenspitz auf Hardmode. Abhängig von der Stärke und Optimierung der Gruppe kann selbst dort oft darauf verzichtet werden.
 
-Falls ihr die Fähigkeit nutzt, empfiehlt sich der Heilstab aus dem Schwarzrosengefängnis.
+Falls ihr die Fähigkeit nutzt, empfiehlt sich der Heilungsstab aus dem Schwarzrosengefängnis.
 
 [Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/heilungsstab/heilender-schutz){: target="_blank" rel="noopener" }
 
@@ -216,7 +216,7 @@ Zusätzlich stellt die Fähigkeit eine weitere Synergie bereit, etwa für **Brü
 
 #### Gegen die Zeit
 
-**Gegen die Zeit** empfiehlt sich für Kämpfe, in denen ihr als Heiler mechanikbedingt weite Strecken in kurzer Zeit zurücklegen müsst, etwa als Kiter in **CR** oder **vAS**.
+**Gegen die Zeit** empfiehlt sich für Kämpfe, in denen ihr als Heiler mechanikbedingt weite Strecken in kurzer Zeit zurücklegen müsst, etwa als Kiter in **Wolkenruh (CR)** oder **Anstalt Sanctorium (AS)**.
 
 Besonders Klassen ohne eigenen Tempobuff profitieren von dieser Fähigkeit.
 

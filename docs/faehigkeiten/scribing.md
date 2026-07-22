@@ -6,6 +6,6 @@ Welche Skripturen ihr verwendet, richtet sich nach den bereits vorhandenen Buffs
 
 **Empfehlungen:**
 
-- **Niederrennen (Sturmangriff):** Erste Wahl für Supporter, um durch **Größeres Heldentum** mehr Ultimative Kraft zu erzeugen.
+- **Niederrennen (Sturmangriff):** Erste Wahl für Supporter, um durch **Größeres Heldentum** mehr ultimative Kraft zu erzeugen.
 - **Ulfsilds Ausweichplan:** Eine flexible Alternative, um fehlende Buffs oder Debuffs in der Gruppe bereitzustellen, insbesondere wenn diese nicht bereits von Tanks oder anderen Supportern übernommen werden.
 - **Seelenbruch:** Ebenfalls eine sehr flexible Option, um fehlende Buffs oder Debuffs zu ergänzen. Welche Skripturen sinnvoll sind, hängt von eurer Gruppe und den bereits vorhandenen Effekten ab.
