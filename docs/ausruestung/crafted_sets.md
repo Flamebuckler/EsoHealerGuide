@@ -7,8 +7,8 @@ Hergestellte Sets könnt ihr selbst craften, sobald ihr die nötige Anzahl an Ei
 
 | Set | Sterne | Warum für Heiler | Herkunft | Link |
 |---|---|---|---|---|
-| **Verachtung der Schlange** | ★★★★★ | Erhöht die Wirkdauer von Statuseffekten. Sehr situativ, aber für einen Warden Heiler ein aktuelles Meta-Set | Hochinsel | [ESO-Hub](https://eso-hub.com/de/sets/verachtung-der-schlange){: target="_blank" rel="noopener" } |
+| **Verachtung der Schlange** | ★★★★★ | Erhöht die Wirkdauer von Statuseffekten. Sehr situativ und nur für einen Hüter Heiler ein aktuelles Meta-Set | Hochinsel | [ESO-Hub](https://eso-hub.com/de/sets/verachtung-der-schlange){: target="_blank" rel="noopener" } |
 | **Zorn des Ordens** | ★★★★ | Erhöht kritische Trefferchance sowie kritischen Schaden und kritische Heilung – universeller Allrounder | Hochinsel | [ESO-Hub](https://eso-hub.com/de/sets/zorn-des-ordens){: target="_blank" rel="noopener" } |
-| **Elendsvitalität** | ★★★ | Gewährt Magicka- und Ausdauerregeneration, sobald ihr einen Buff oder Debuff anwendet | Totenländer | [ESO-Hub](https://eso-hub.com/de/sets/elendsvitalitat){: target="_blank" rel="noopener" } |
-| **Kagrenacs Hoffnung** | ★★ | Verkürzt die Wiederbelebungszeit und stellt beim Wiederbeleben Magicka wieder her | Erdschmiede | [ESO-Hub](https://eso-hub.com/de/sets/kagrenacs-hoffnung){: target="_blank" rel="noopener" } |
+| **Kagrenacs Hoffnung** | ★★★ | Verkürzt die Wiederbelebungszeit und stellt beim Wiederbeleben Magicka wieder her | Erdschmiede | [ESO-Hub](https://eso-hub.com/de/sets/kagrenacs-hoffnung){: target="_blank" rel="noopener" } |
+| **Elendsvitalität** | ★★ | Gewährt Magicka- und Ausdauerregeneration, sobald ihr einen Buff oder Debuff anwendet | Totenländer | [ESO-Hub](https://eso-hub.com/de/sets/elendsvitalitat){: target="_blank" rel="noopener" } |
 | **Torugs Pakt** | ★ | Reduziert die Abklingzeit von Waffenverzauberungen und verstärkt deren Wirkung | Deshaan, Grahtwald, Sturmhafen | [ESO-Hub](https://eso-hub.com/de/sets/torugs-pakt){: target="_blank" rel="noopener" } |
