@@ -33,14 +33,24 @@ theme:
 nav:
   - Start: index.md
   - Allgemein:
-      - Rasse: allgemein/race.md
-      - Mundusstein: allgemein/mundus.md
-      - Championpunkte: allgemein/championpoints.md
-      - Verbrauchsgüter: allgemein/consumables.md
+    - Rasse: allgemein/race.md
+    - Mundusstein: allgemein/mundus.md
+    - Championpunkte: allgemein/championpoints.md
+    - Verbrauchsgüter: allgemein/consumables.md
   - Fähigkeiten:
-      - Klassenunabhängige Fähigkeiten: faehigkeiten/class_independent_skills.md
-      - Klassenspezifische Fähigkeiten: faehigkeiten/class_skills.md
-      - Schriftlehre: faehigkeiten/scribing.md
+    - Klassenunabhängige Fähigkeiten: faehigkeiten/class_independent_skills.md
+    - Klassenspezifische Fähigkeiten: faehigkeiten/class_skills.md
+    - Schriftlehre: faehigkeiten/scribing.md
+  - Ausrüstung:
+    - Hergestellbare Ausrüstung: ausruestung/crafted_sets.md
+    - Dungeon-Sets: ausruestung/dungeon_sets.md
+    - Raid-Sets: ausruestung/raid_sets.md
+    - Sinnvolle Kombinationen: ausruestung/combos.md
+  - Builds:
+      - Anfänger: builds/beginner_build.md
+      - Dungeon: builds/dungeon_build.md
+      - Raid: builds/raid_build.md
+
 
 markdown_extensions:
   - admonition

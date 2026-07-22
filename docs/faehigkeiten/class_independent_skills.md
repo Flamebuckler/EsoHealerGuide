@@ -17,12 +17,32 @@ Ergänzt wird dieses Grundgerüst durch **Klassenfähigkeiten**, die je nach Kla
 
 ## Fähigkeiten im Detail
 
-Sortiert nach Wichtigkeit (★★★★★ = unverzichtbar, ★ = Spezialfall):
+Übersicht sortiert nach Wichtigkeit, mit Sprungmarken zu den ausführlichen Beschreibungen:
+
+| Fähigkeit | Sterne | Kurzbeschreibung |
+|---|---|---|
+| [Kampfgebet](#kampfgebet) | ★★★★★ | Starke Heilung, versorgt die Gruppe mit Kleinerer Raserei |
+| [Erhabene Heilung](#erhabene-heilung) | ★★★★★ | Grundlage der Gruppenheilung, aktiviert Meisterheilungsstab-Bonus |
+| [Elementare Blockade](#elementare-blockade) | ★★★★★ | Schaden, aktiviert Zerstörungsstab-Effekt und -Glyphe |
+| [Energetische Kugel](#energetische-kugel) | ★★★★★ | Heilung plus Ressourcen-Synergie für die ganze Gruppe |
+| [Widerhallender Elan](#widerhallender-elan) | ★★★★ | Mobiler AoE-HoT, verbessert den Magicka-Sustain |
+| [Überfließender Altar](#uberflieender-altar) | ★★★★ | Notfall-Synergie mit starker Heilung, vor allem für Tanks |
+| [Belebende Barriere](#belebende-barriere) | ★★★★ | Notfall-Ultimative mit Bonus-Magickaregeneration |
+| [Aggressives Signal](#aggressives-signal) | ★★★★ | Ressourcen- und kritischer-Schaden-Buff für die Gruppe |
+| [Strahlende Regeneration](#strahlende-regeneration) | ★★★ | HoT für bewegungsintensive Kämpfe und kleine Gruppen |
+| [Elementare Anfälligkeit](#elementare-anfalligkeit) | ★★★ | Verbessert Debuff-Uptime für mehr Gruppenschaden |
+| [Zermalmender Schlag](#zermalmender-schlag) | ★★ | Unterbrechung für Gegner mit Fernkampfangriffen |
+| [Effiziente Läuterung](#effiziente-lauterung) | ★★ | Entfernt schädliche Effekte, hohe Magickakosten |
+| [Heilender Schutz](#heilender-schutz) | ★ | Nur für Spezialfälle wie den Eisboss in SS im Hardmode |
+| [Knochenwoge](#knochenwoge) | ★ | Absorbiert Gruppenschaden vor planbaren Mechaniken |
+| [Gegen die Zeit](#gegen-die-zeit) | ★ | Tempo-Boost zum Kiten über weite Strecken |
+| [Mystische Wache](#mystische-wache) | ★ | Reduziert eingehenden Schaden eines verbundenen Spielers |
+
+### ★★★★★ Unverzichtbar
 
 ---
 
-### Kampfgebet
-★★★★★
+#### Kampfgebet
 
 **Kampfgebet** gehört zu euren wichtigsten Fähigkeiten.
 
@@ -32,8 +52,7 @@ Neben einer starken Heilung gewährt es **Kleinere Raserei**. Achtet darauf, mö
 
 ---
 
-### Erhabene Heilung
-★★★★★
+#### Erhabene Heilung
 
 **Erhabene Heilung** bildet die Grundlage eurer Gruppenheilung und sollte möglichst dauerhaft unter der Gruppe liegen.
 
@@ -43,8 +62,7 @@ Zusätzlich aktiviert die Fähigkeit den Bonus des Meisterheilungsstabs, sofern 
 
 ---
 
-### Elementare Blockade
-★★★★★
+#### Elementare Blockade
 
 **Elementare Blockade** verursacht nicht nur soliden Schaden, sondern aktiviert zuverlässig den Effekt eures Zerstörungsstabs sowie dessen Glyphe. Je nach Stabtyp (Blitz, Frost oder Feuer) entstehen dabei zusätzliche Effekte.
 
@@ -54,8 +72,7 @@ Außerdem eignet sich die Fähigkeit hervorragend, um für **Elementarer Katalys
 
 ---
 
-### Energetische Kugel
-★★★★★
+#### Energetische Kugel
 
 **Energetische Kugel** zählt zu den wichtigsten Support-Fähigkeiten.
 
@@ -71,12 +88,15 @@ Werft Kugeln möglichst kontinuierlich nach. Idealerweise wirkt ihr die nächste
 
 ---
 
-### Widerhallender Elan
-★★★★
+### ★★★★ Stark
+
+---
+
+#### Widerhallender Elan
 
 **Widerhallender Elan** verbessert euren Magicka-Sustain, da die Fähigkeit Ausdauer verbraucht. Gleichzeitig löst sie weiterhin **Perlen von Ehlnofey** aus, sofern ihr das Set tragt.
 
-Außerdem eignet sich Elan hervorragend, um eure Ausdauer gezielt unter 50 % zu halten und dadurch **Kampfkunst** zu aktivieren. Zusätzlich kann die Fähigkeit den Effekt von **Kraftvoller Ansturm** auslösen.
+Außerdem eignet sich Elan hervorragend, um eure Ausdauer gezielt unter 50% zu halten und dadurch **Kampfkunst** zu aktivieren. Zusätzlich kann die Fähigkeit den Effekt von **Kraftvoller Ansturm** auslösen.
 
 Wie die meisten Heilfähigkeiten trifft Elan bis zu sechs Spieler und bietet ein mobiles AoE-HoT, das besonders in bewegungsintensiven Kämpfen seine Stärken ausspielt.
 
@@ -84,12 +104,11 @@ Wie die meisten Heilfähigkeiten trifft Elan bis zu sechs Spieler und bietet ein
 
 ---
 
-### Überfließender Altar
-★★★★
+#### Überfließender Altar
 
 **Überfließender Altar** stellt vor allem Tanks eine wichtige Synergie bereit.
 
-Bei niedrigem Leben heilt die Synergie 65 % des maximalen Lebens. Zusätzlich erhalten alle Angreifer durch Lebensraub jede Sekunde 600 Leben zurück.
+Bei niedrigem Leben heilt die Synergie 65% des maximalen Lebens. Zusätzlich erhalten alle Angreifer durch Lebensraub jede Sekunde 600 Leben zurück.
 
 Diese Fähigkeit sollte in jedem Raid vorhanden sein, muss aber nur einmal gespielt werden.
 
@@ -97,23 +116,21 @@ Diese Fähigkeit sollte in jedem Raid vorhanden sein, muss aber nur einmal gespi
 
 ---
 
-### Belebende Barriere
-★★★★
+#### Belebende Barriere
 
 **Belebende Barriere** dient in erster Linie als Notfall-Ultimative.
 
-Habt ihr die Passive **Magickahilfe** freigeschaltet, erhaltet ihr zusätzlich 10 % Magickaregeneration. Deshalb lohnt es sich, die Ultimative auf eurer Heilungsleiste auszurüsten, selbst wenn ihr sie nur selten einsetzt.
+Habt ihr die Passive **Magickahilfe** freigeschaltet, erhaltet ihr zusätzlich 10% Magickaregeneration. Deshalb lohnt es sich, die Ultimative auf eurer Heilungsleiste auszurüsten, selbst wenn ihr sie nur selten einsetzt.
 
 [Link zu ESO-Hub](https://eso-hub.com/de/skills/allianzkrieg/unterstutzung/belebende-barriere){: target="_blank" rel="noopener" }
 
 ---
 
-### Aggressives Signal
-★★★★
+#### Aggressives Signal
 
 **Aggressives Signal** gehört zu den wichtigsten Ultimativen für Supporter.
 
-Es erhöht Magicka und Ausdauer aller Gruppenmitglieder 30 Sekunden lang um 10 % und gewährt zusätzlich für 10 Sekunden **Größere Kraft**. Dadurch steigt der verursachte kritische Schaden um 20 %.
+Es erhöht Magicka und Ausdauer aller Gruppenmitglieder 30 Sekunden lang um 10% und gewährt zusätzlich für 10 Sekunden **Größere Kraft**. Dadurch steigt der verursachte kritische Schaden um 20%.
 
 Da **Größere Kraft** deutlich früher ausläuft als der Ressourcenbonus, werden Hörner häufig bereits vor Ablauf der 30 Sekunden rotiert, um eine möglichst hohe Uptime des Buffs zu erreichen.
 
@@ -123,8 +140,11 @@ Legt die Ultimative idealerweise auf eure Backbar, damit ihr auf der Heilungslei
 
 ---
 
-### Strahlende Regeneration
-★★★
+### ★★★ Solide
+
+---
+
+#### Strahlende Regeneration
 
 **Strahlende Regeneration** kommt vor allem in Kämpfen mit viel Bewegung oder in kleineren Gruppen zum Einsatz.
 
@@ -134,8 +154,21 @@ Die Heilung ist nicht zu unterschätzen, spielt im klassischen 12-Spieler-Conten
 
 ---
 
-### Zermalmender Schlag
-★★★
+#### Elementare Anfälligkeit
+
+**Elementare Anfälligkeit** erhöht den Gruppenschaden, indem sie wichtige Debuffs zuverlässiger aufrechterhält.
+
+Vor allem die Uptime von **Kleinere Verwundbarkeit** und **Verwirrung** (_Aus dem Gleichgewicht_) lässt sich damit deutlich verbessern.
+
+[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/zerstorungsstab/elementare-anfalligkeit){: target="_blank" rel="noopener" }
+
+---
+
+### ★★ Situativ
+
+---
+
+#### Zermalmender Schlag
 
 **Zermalmender Schlag** wird nur selten benötigt.
 
@@ -145,8 +178,7 @@ Nutzt die Fähigkeit, wenn Gegner regelmäßig aus der Distanz unterbrochen werd
 
 ---
 
-### Effiziente Läuterung
-★★
+#### Effiziente Läuterung
 
 **Effiziente Läuterung** entfernt schädliche Effekte von euch und euren Verbündeten. Eingesetzt wird sie vor allem in Kämpfen, in denen regelmäßiges Reinigen erforderlich ist, beispielsweise beim ersten Boss in HoF oder beim zweiten Boss in MoL.
 
@@ -158,19 +190,11 @@ Alternativ genügt in manchen Kämpfen auch ein Schriftlehre-Skill, der zusätzl
 
 ---
 
-### Elementare Anfälligkeit
-★★
-
-**Elementare Anfälligkeit** erhöht den Gruppenschaden, indem sie wichtige Debuffs zuverlässiger aufrechterhält.
-
-Vor allem die Uptime von **Kleinere Verwundbarkeit** und **Verwirrung** (_Aus dem Gleichgewicht_) lässt sich damit deutlich verbessern.
-
-[Link zu ESO-Hub](https://eso-hub.com/de/skills/waffe/zerstorungsstab/elementare-anfalligkeit){: target="_blank" rel="noopener" }
+### ★ Spezialfall
 
 ---
 
-### Heilender Schutz
-★
+#### Heilender Schutz
 
 **Heilender Schutz** wird nur in wenigen Spezialfällen benötigt, beispielsweise beim Eisboss in Sonnenspitz auf Hardmode. Abhängig von der Stärke und Optimierung der Gruppe kann selbst dort oft darauf verzichtet werden.
 
@@ -180,8 +204,7 @@ Falls ihr die Fähigkeit nutzt, empfiehlt sich der Heilstab aus dem Schwarzrosen
 
 ---
 
-### Knochenwoge
-★
+#### Knochenwoge
 
 **Knochenwoge** eignet sich hervorragend, um hohen Gruppenschaden vor vorhersehbaren Mechaniken abzufangen.
 
@@ -191,8 +214,7 @@ Zusätzlich stellt die Fähigkeit eine weitere Synergie bereit, etwa für **Brü
 
 ---
 
-### Gegen die Zeit
-★
+#### Gegen die Zeit
 
 **Gegen die Zeit** empfiehlt sich für Kämpfe, in denen ihr als Heiler mechanikbedingt weite Strecken in kurzer Zeit zurücklegen müsst, etwa als Kiter in **CR** oder **vAS**.
 
@@ -202,8 +224,7 @@ Besonders Klassen ohne eigenen Tempobuff profitieren von dieser Fähigkeit.
 
 ---
 
-### Mystische Wache
-★
+#### Mystische Wache
 
 **Mystische Wache** verbindet euch mit einem Gruppenmitglied und reduziert dessen eingehenden Schaden. Dadurch lassen sich anspruchsvolle Tank-Mechaniken entschärfen, Todesfälle während des Progress verhindern oder – je nach Morph – sogar ein zusätzlicher Skillplatz einsparen.
 
