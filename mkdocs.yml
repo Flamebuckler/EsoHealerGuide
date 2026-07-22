@@ -1,0 +1,53 @@
+site_name: ESO Heilerguide
+site_url: https://flamebuckler.github.io/EsoHealerGuide/
+repo_url: https://github.com/Flamebuckler/EsoHealerGuide
+repo_name: Flamebuckler/EsoHealerGuide
+
+theme:
+  name: material
+  language: de
+  palette:
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Dunkelmodus aktivieren
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Hellmodus aktivieren
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+nav:
+  - Start: index.md
+  - Allgemein:
+      - Rasse: allgemein/race.md
+      - Mundusstein: allgemein/mundus.md
+      - Championpunkte: allgemein/championpoints.md
+      - Verbauchsgüter: allgemein/consumables.md
+  - Fähigkeiten:
+      - Klassenunabhängige Fähigkeiten: fähigkeiten/class_independent_skills.md
+      - Klassenspezifische Fähigkeiten: fähigkeiten/class_skills.md
+      - Schriftlehre: fähigkeiten/scribing.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
