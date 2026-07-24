@@ -41,7 +41,7 @@ nav:
     - Warum ein Zerstörungsstab auf der Backbar?: allgemein/why_destruction_staff_on_backbar.md
   - Fähigkeiten:
     - Klassenunabhängige Fähigkeiten: faehigkeiten/class_independent_skills.md
-    - Klassenspezifische Fähigkeiten: faehigkeiten/class_skills.md
+    #- Klassenspezifische Fähigkeiten: faehigkeiten/class_skills.md
     - Schriftlehre: faehigkeiten/scribing.md
   - Ausrüstung:
     - Hergestellbare Ausrüstung: ausruestung/crafted_sets.md
@@ -54,20 +54,20 @@ nav:
       - Übersicht: ausruestung/combos.md
       - Dungeon: ausruestung/combos_dungeon.md
       - Raid: ausruestung/combos_raid.md
-  - Klassen:
-    - Übersicht: klassen/overview.md
-    - Hüter: klassen/warden.md
-    - Templer: klassen/templar.md
-    - Arkanist: klassen/arcanist.md
-    - Drachenritter: klassen/dragonknight.md
-    - Zauberer: klassen/sorcerer.md
-    - Nachtklinge: klassen/nightblade.md
-    - Nekromant: klassen/necromancer.md
+  #- Klassen:
+  #- Übersicht: klassen/overview.md
+  #- Hüter: klassen/warden.md
+  #- Templer: klassen/templar.md
+  #- Arkanist: klassen/arcanist.md
+  #- Drachenritter: klassen/dragonknight.md
+  #- Zauberer: klassen/sorcerer.md
+  #- Nachtklinge: klassen/nightblade.md
+  #- Nekromant: klassen/necromancer.md
 
-  - Builds:
-    - Anfänger: builds/beginner_build.md
-    - Dungeon: builds/dungeon_build.md
-    - Raid: builds/raid_build.md
+  # - Builds:
+  #   - Anfänger: builds/beginner_build.md
+  #   - Dungeon: builds/dungeon_build.md
+  #   - Raid: builds/raid_build.md
 
 
 markdown_extensions:
