@@ -7,5 +7,8 @@ Overland-Sets droppen von Gegnern, Truhen und Bossen in den offenen Zonen und ö
 
 | Set | Sterne | Warum für Heiler | Herkunft | Link |
 |---|---|---|---|---|
-| **Winterruhe** | ★★★ | Bodenwirkende Fähigkeiten hinterlassen einen Heilkreis, der Verbündete darin kontinuierlich heilt – starkes Einsteiger-Set ganz ohne Gruppenspiel | Das westliche Himmelsrand | [ESO-Hub](https://eso-hub.com/de/sets/winterruhe){: target="_blank" rel="noopener" } |
+| **Weg der Kampfkunst** | ★★★★ | Eure leichten Angriffe sorgen bei unter 50 % Ausdauer für 8 % zusätzlichen Gruppenschaden – starkes Buff-Set, für Einsteiger eher nicht geeignet, kann in stressigen Situationen problematisch werden | Kargstein | [ESO-Hub](https://eso-hub.com/de/sets/weg-der-kampfkunst){: target="_blank" rel="noopener" } |
+| **Winterruhe** | ★★★ | Bodenwirkende Fähigkeiten hinterlassen einen Heilkreis, der Verbündete darin kontinuierlich heilt – starkes Einsteiger-Set | Das westliche Himmelsrand | [ESO-Hub](https://eso-hub.com/de/sets/winterruhe){: target="_blank" rel="noopener" } |
 | **Hintergassen-Gourmet** | ★★ | Erhöht kritischen Schaden und kritische Heilung, solange ein Bufffood aktiv ist | Galen und Y'ffelon | [ESO-Hub](https://eso-hub.com/de/sets/hintergassen-gourmet){: target="_blank" rel="noopener" } |
+
+
