@@ -50,7 +50,20 @@ nav:
     - Raid-Sets: ausruestung/raid_sets.md
     - Monster-Sets: ausruestung/monster_sets.md
     - Sonstige Sets: ausruestung/other_sets.md
-    - Sinnvolle Kombinationen: ausruestung/combos.md
+    - Sinnvolle Kombinationen: 
+      - Übersicht: ausruestung/combos.md
+      - Dungeon: ausruestung/combos_dungeon.md
+      - Raid: ausruestung/combos_raid.md
+  - Klassen:
+    - Übersicht: klassen/overview.md
+    - Hüter: klassen/warden.md
+    - Templer: klassen/templar.md
+    - Arkanist: klassen/arcanist.md
+    - Drachenritter: klassen/dragonknight.md
+    - Zauberer: klassen/sorcerer.md
+    - Nachtklinge: klassen/nightblade.md
+    - Nekromant: klassen/necromancer.md
+
   - Builds:
     - Anfänger: builds/beginner_build.md
     - Dungeon: builds/dungeon_build.md
